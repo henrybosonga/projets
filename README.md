@@ -1,2 +1,2 @@
-# projets
-dans ce projet il y a mon porte folio 
+# mon-portefolio
+mes compétences et mes information
